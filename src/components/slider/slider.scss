@@ -1,11 +1,6 @@
-:root {
-  --heights: 50vh;
-  --widths: 100%;
-}
-
 .slider-container {
-  height: var(--heights);
-  width: var(--widths);
+  height: 50vh;
+  width: 100%;
   position: relative;
   margin: auto;
   overflow: hidden;
@@ -20,8 +15,8 @@
 }
 
 .slides {
-  height: var(--heights);
-  width: var(--widths);
+  height: 50vh;
+  width: 100%;
   position: relative;
 }
 

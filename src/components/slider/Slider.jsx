@@ -8,7 +8,7 @@ import "./slider.scss";
 
 const len = sliderImages.length - 1;
 
-const Slider = (props) => {
+const Slider = () => {
   const [activeIndex, setActiveIndex] = useState(0);
 
   useEffect(() => {
