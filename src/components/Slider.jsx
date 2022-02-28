@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
-import SliderContent from "../sliderContent/SliderContent";
-import Dots from "../dots/Dots";
-import Arrows from "../arrows/Arrows";
-import { sliderImages } from "../sliderImages/SliderImages";
+import SliderContent from "./SliderContent";
+import Dots from "./Dots";
+import Arrows from "./Arrows";
+import { sliderImages } from "./SliderImages";
 
 import "./slider.scss";
 
